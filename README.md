@@ -8,3 +8,6 @@
 
 This repository contains gRPC service specifications for transporting [Dogma
 messages](https://github.com/dogmatiq/dogma#message) between applications.
+
+> **This repository is deprecated. Most of the functionality has been moved into
+[dogmatiq/interopspec](https://github.com/dogmatiq/interopspec).**
